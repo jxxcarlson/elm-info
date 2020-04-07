@@ -1,4 +1,6 @@
-## Intro
+# Articles
+
+## Notes to myself
 
 Take special care to read the articles marked with *study*
 
@@ -21,7 +23,7 @@ Take special care to read the articles marked with *study*
 
 ## Gampleman
 
-A really interesting discussion of [Partial Defunctionalization](https://discourse.elm-lang.org/t/a-useful-technique-partial-defunctionalization/5333/20).
+A really interesting discussion of [Partial Defunctionalization](https://discourse.elm-lang.org/t/a-useful-technique-partial-defunctionalization/5333/20). *Study!*
 
 ## Elm Programming
 
