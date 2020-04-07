@@ -2,7 +2,9 @@
 
 ## Notes to myself
 
-Take special care to read the articles marked with *study*
+- Take special care to read the articles marked with *study*
+- Can Gampleman's article be used for a better, more configurable
+  interface for `BlockParser`?
 
 
 ## Alien Kevin
@@ -15,7 +17,8 @@ Take special care to read the articles marked with *study*
 
 ## Jeroen Engels
 
-[Jeroen Engels, Static Types (Slides)](https://slides.com/jeroenengels/typage-statique) *Study!*
+[Jeroen Engels, Static Types (Slides)](https://slides.com/jeroenengels/typage-statique) *Study:*
+especially the material on phantom types.
 
 [Twitch video on static types](https://www.twitch.tv/jfmengels)
 
