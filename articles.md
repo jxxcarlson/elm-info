@@ -1,8 +1,3 @@
-# Resources
-
-[Elm Catalog](https://korban.net/elm/catalog/)
-
-[Evan'sJS interop](https://github.com/elm-community/js-integration-examples)
 
 # Articles
 
