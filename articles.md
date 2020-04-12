@@ -10,6 +10,8 @@
 
 [Local-first software](https://www.inkandswitch.com/local-first.html)
 
+[CRDTs and the Quest for Distributed Consistency](https://www.youtube.com/watch?v=B5NULPSiOGw)
+
 ## Electron
 
 [avh4](https://package.elm-lang.org/packages/avh4/elm-desktop-app/latest/)
