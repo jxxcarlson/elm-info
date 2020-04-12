@@ -1,4 +1,3 @@
-
 # Articles
 
 ## Notes to myself
@@ -7,6 +6,13 @@
 - Can Gampleman's article be used for a better, more configurable
   interface for `BlockParser`?
 
+## Local First Software
+
+[Local-first software](https://www.inkandswitch.com/local-first.html)
+
+## Electron
+
+[avh4](https://package.elm-lang.org/packages/avh4/elm-desktop-app/latest/)
 
 ## Alien Kevin
 
