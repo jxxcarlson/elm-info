@@ -24,6 +24,10 @@
 
 [try-elm-rust-pwa](https://github.com/AlienKevin/try-elm-rust-pwa)
 
+## Athas, Futhark
+
+[Raytracers](https://github.com/athas/raytracers)
+
 ## Jeroen Engels
 
 [Jeroen Engels, Static Types (Slides)](https://slides.com/jeroenengels/typage-statique) *Study:*
