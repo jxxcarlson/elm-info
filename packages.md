@@ -4,6 +4,8 @@
 
 [Ian MacKenzie, elm-script](https://github.com/ianmackenzie/elm-script)
 
+[sport/elm-select](https://package.elm-lang.org/packages/sporto/elm-select/3.2.0/)
+
 [joakin/elm-canvas](https://package.elm-lang.org/packages/joakin/elm-canvas/4.2.1/)
 
 [microkanren language](https://package.elm-lang.org/packages/dvberkel/microkanren/1.2.0/)
