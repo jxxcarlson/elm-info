@@ -1,5 +1,11 @@
 # Packages and Repos
 
+[gleam repo](https://github.com/gleam-lang/gleam) | [gleam](https://gleam.run)
+
+[deno](https://deno.land/std/manual.md)
+
+[jgrenat/regression-testing](https://package.elm-lang.org/packages/jgrenat/regression-testing/1.0.0/)
+
 [mpizenberg/elm-pointer-events](https://package.elm-lang.org/packages/mpizenberg/elm-pointer-events/4.0.2/)
 
 [Ian MacKenzie, elm-script](https://github.com/ianmackenzie/elm-script)

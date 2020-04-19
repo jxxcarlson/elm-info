@@ -6,6 +6,12 @@
 - Can Gampleman's article be used for a better, more configurable
   interface for `BlockParser`?
 
+
+## Haskell
+
+[Why Haskell Matters (thma)](https://github.com/thma/WhyHaskellMatters)
+
+
 ## Local First Software
 
 [Local-first software](https://www.inkandswitch.com/local-first.html)
