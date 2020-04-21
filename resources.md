@@ -7,3 +7,5 @@
 [Generate JSON decoders/encoders](https://dkodaj.github.io/decgen/)
 
 [Generate types from JSON](https://app.quicktype.io)
+
+[pd-andy, elm-record-helpers](https://pd-andy.github.io/elm-record-helpers/)

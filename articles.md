@@ -5,6 +5,14 @@
 - Take special care to read the articles marked with *study*
 - Can Gampleman's article be used for a better, more configurable
   interface for `BlockParser`?
+  
+## Tools 
+
+[Regression testing, jgrenat](https://discourse.elm-lang.org/t/elm-regression-testing/5599)
+
+## Games
+
+[Traffic simulator](https://matiasklemola.com/liikennematto-dev-blog-one
 
 
 ## Haskell
