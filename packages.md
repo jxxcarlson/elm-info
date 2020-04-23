@@ -1,5 +1,7 @@
 # Packages and Repos
 
+[priority queue](https://package.elm-lang.org/packages/fifth-postulate/priority-queue/1.0.0/)
+
 [gleam repo](https://github.com/gleam-lang/gleam) | [gleam](https://gleam.run)
 
 [deno](https://deno.land/std/manual.md)
