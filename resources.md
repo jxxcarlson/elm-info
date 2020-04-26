@@ -9,3 +9,5 @@
 [Generate types from JSON](https://app.quicktype.io)
 
 [pd-andy, elm-record-helpers](https://pd-andy.github.io/elm-record-helpers/)
+
+[chokidar](https://openbase.io/js/chokidar)

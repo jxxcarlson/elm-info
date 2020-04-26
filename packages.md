@@ -1,5 +1,7 @@
 # Packages and Repos
 
+[molecules](https://package.elm-lang.org/packages/wells-wood-research/elm-molecules/1.0.0/)
+
 [priority queue](https://package.elm-lang.org/packages/fifth-postulate/priority-queue/1.0.0/)
 
 [gleam repo](https://github.com/gleam-lang/gleam) | [gleam](https://gleam.run)
